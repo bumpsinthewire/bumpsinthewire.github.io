@@ -14,36 +14,36 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: bumpsinthewire # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: First-principles infrastructure engineering # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  The technical journal of Alex Perkins. Documenting SRE patterns, GitOps-driven IaC pipelines, and system reliability for mission-critical physical and virtual infrastructure
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://bumpsinthewire.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: bumpsinthewire # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: bumpsinthewire # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Alex Perkins
+  email: bumpsinthewire@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/bumpsinthewire # change to your Twitter homepage
+    - https://github.com/bumpsinthewire # change to your GitHub homepage
+    - https://www.linkedin.com/in/bumpsinthewire
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/bumpsinthewire
 
 # Site Verification Settings
 webmaster_verifications:
